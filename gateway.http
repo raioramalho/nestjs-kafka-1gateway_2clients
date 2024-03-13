@@ -1,0 +1,7 @@
+###GET
+POST http://localhost:3000/carga2
+Content-Type: application/json
+
+{
+    "message" : "Wello World!!"
+}
